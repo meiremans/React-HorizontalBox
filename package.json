@@ -1,5 +1,5 @@
 {
-  "name": "HoritzontalBox",
+  "name": "horizontal-box",
   "version": "0.0.1",
   "devDependencies": {
     "babel": "^6.1.18",
@@ -19,5 +19,28 @@
     "gulp-sass": "^2.3.2",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
-  }
+  },
+  "description": "a stylish horizontal box with parameters for content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meiremans/React-HorizontalBox.git"
+  },
+  "keywords": [
+    "horizontal",
+    "box",
+    "styleish",
+    "react",
+    "layout",
+    "container"
+  ],
+  "author": "Nick Meiremans <nick.meiremans@gmail.com> (http://www.ab-it.ro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meiremans/React-HorizontalBox/issues"
+  },
+  "homepage": "https://github.com/meiremans/React-HorizontalBox#readme"
 }
