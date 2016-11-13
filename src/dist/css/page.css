@@ -1,0 +1,28 @@
+.horizontalBox {
+  background-color: #a0ce4e;
+  background-position: left top;
+  background-repeat: no-repeat;
+  padding-top: 55px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-color: #eae9e9;
+  border-top-style: solid;
+  border-bottom-style: solid; }
+
+.divider-bottom-arrow {
+  border-top-color: #a0ce4e;
+  border-width: 29px 29px 0;
+  z-index: 2;
+  position: absolute;
+  left: 50%;
+  margin-left: -29px;
+  height: 0;
+  width: 0;
+  border-right-color: transparent;
+  border-left-color: transparent;
+  border-bottom-color: transparent;
+  border-style: solid;
+  box-sizing: border-box; }
